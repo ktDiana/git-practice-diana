@@ -4,8 +4,8 @@ public class Main {
 
         System.out.println("Hello world again");
 
+        Cat cat = new Cat();
+        cat.jump();
+
     }
-
-
-
 }
